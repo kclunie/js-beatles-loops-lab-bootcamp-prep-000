@@ -22,11 +22,10 @@ function johnLennonFacts(facts){
   return facts
 }
 
-/*function iLoveTheBeatles('7'){
+function iLoveTheBeatles('7'){
   var newarray = [];
     do {
     newarray.push("I love the Beatles!")
     } while ('7' < 15, '7'++)
   return array
 }
-*/
